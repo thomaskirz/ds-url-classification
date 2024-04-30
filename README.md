@@ -52,8 +52,6 @@ The repository is structured as follows:
 
 Source: https://www.kaggle.com/datasets/shawon10/url-classification-dataset-dmoz
 
-### PhishStorm
+### Phishing URL dataset
 
-Source: https://research.aalto.fi/en/datasets/phishstorm-phishing-legitimate-url-dataset
-
-Marchal, S. (Creator) (2014). PhishStorm - phishing / legitimate URL dataset. Aalto University. urlset(v.zip). 10.24342/f49465b2-c68a-4182-9171-075f0ed797d5
+Tamal, Maruf (2023), “Phishing Detection Dataset”, Mendeley Data, V1, doi: 10.17632/6tm2d6sz7p.1
