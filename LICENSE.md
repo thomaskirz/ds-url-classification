@@ -1,3 +1,14 @@
+# Licenses
+
+The following licenses are used in this repository:
+
+- GNU General Public License v3.0 for the code in this repository, found in the `experiments` directory
+- Creative Commons Attribution 4.0 International for the documentation in this repository, found in the `results` directory
+
+The full text of these licenses is included below.
+
+## GNU General Public License v3.0
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -672,3 +683,8 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+## Creative Commons Attribution 4.0 International
+
+URL-Based Topic Classification © 2024 by Thomas James Kirz is licensed under Creative Commons Attribution 4.0 International.
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
