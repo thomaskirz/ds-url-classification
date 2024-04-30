@@ -1,5 +1,11 @@
 # URL-Based Topic Classification
 
+
+
+[![DOI](https://zenodo.org/badge/792693041.svg)](https://zenodo.org/doi/10.5281/zenodo.11093040)
+
+
+
 ## Introduction
 
 This repository contains the code for simplified experiments based on my seminar paper "Evaluation of Hyperparameter Tuning and Stochastic Gradient Descent for Optimizing URL-Classifying Support Vector Machines" at the University of Passau.
